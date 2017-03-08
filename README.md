@@ -1,2 +1,4 @@
 # hello-world
-Some awesome repo
+Asdf jklů!
+
+Hokusy pokusy urguju skůtr.
